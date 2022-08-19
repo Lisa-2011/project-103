@@ -1,0 +1,32 @@
+body{
+    background-color: lightblue;
+    color:navy;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.name_of_objects{
+    color: black;
+    font-size: 15px;
+}
+
+#camera{
+    width: 350px ;
+    height: 300px ;
+    border:2px dashed white;
+}
+
+#result{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed white;
+}
+
+#result_family_member,#result_accuracy{
+    font-size: 20px;
+    color:navy;
+}
