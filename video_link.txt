@@ -1,3 +1,5 @@
 https://www.awesomescreenshot.com/video/10602607?key=3a19c22f7103dc92672b15cab51be330
 
 ^ link to my video
+
+https://teachablemachine.withgoogle.com/models/MsmpvPelL/model.json
